@@ -1,25 +1,36 @@
-Hey, I'm Zeeshan 🖥️✨
+# Hi, I'm Zeeshan 👋😄  
+### Student Developer | Tech Learner | Future Full-Stack Developer 🚀  
 
-A curious Student Developer & Tech Explorer from India 🇮🇳
+---
 
-🔍 Who Am I?
+## 🌟 About Me  
+🧑‍💻 I enjoy learning programming and building real projects  
+📚 Currently improving my skills in **Java** and **Web Development**  
+🧠 Interested in **AI**, **Cybersecurity**, and modern technology  
+🤝 Open to collaborating on beginner-friendly projects  
+🎯 Goal: Become a strong developer and build something impactful  
 
-I’m someone who enjoys learning technology step-by-step and turning ideas into real projects.
-I like building things that are useful, clean, and creative.
+---
 
-📌 Currently
+## 🔥 What I'm Doing Right Now  
+⚡ Learning Data Structures & Problem Solving  
+🛠️ Building small web projects to improve my development skills  
+🌐 Exploring how real-world apps are made  
 
-🧩 Working on improving my coding skills & project building
-🛠️ Building small projects to strengthen my logic and development mindset
-📚 Learning Java, Web Development, and Problem Solving
-🤝 Open to collaborating on beginner-friendly open source & web projects
+---
 
-🎯 Goals
+## 🧰 Tech & Tools  
+💻 Languages: **Java, JavaScript ,python**  
+🌍 Frontend: **HTML, CSS**  
+⚙️ Tools: **Git, GitHub, VS Code**  
+📌 Currently Exploring: **React, Node.js**  
 
-🚀 Become a strong Full-Stack Developer
-🔐 Learn Cybersecurity fundamentals in the future
-🧠 Master DSA + competitive programming
+---
 
-📬 Connect With Me
+## 📫 Contact Me  
+📧 Email: **zeeshanrehman809@gmail.com**  
+🌍 Location: **India 🇮🇳**  
 
-📧 Email: your-email@gmail.com
+---
+
+### ✨ "Learning every day, building every day."
