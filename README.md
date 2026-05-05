@@ -1,16 +1,25 @@
-## Hi there 👋
+Hey, I'm Zeeshan 🖥️✨
 
-<!--
-**QuantumCoded-cell/QuantumCoded-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious Student Developer & Tech Explorer from India 🇮🇳
 
-Here are some ideas to get you started:
+🔍 Who Am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m someone who enjoys learning technology step-by-step and turning ideas into real projects.
+I like building things that are useful, clean, and creative.
+
+📌 Currently
+
+🧩 Working on improving my coding skills & project building
+🛠️ Building small projects to strengthen my logic and development mindset
+📚 Learning Java, Web Development, and Problem Solving
+🤝 Open to collaborating on beginner-friendly open source & web projects
+
+🎯 Goals
+
+🚀 Become a strong Full-Stack Developer
+🔐 Learn Cybersecurity fundamentals in the future
+🧠 Master DSA + competitive programming
+
+📬 Connect With Me
+
+📧 Email: your-email@gmail.com
