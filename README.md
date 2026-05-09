@@ -1,36 +1,86 @@
-# Hi, I'm Zeeshan 👋😄  
-### Student Developer | Tech Learner | Future Full-Stack Developer 🚀  
+<h1 align="center">Hey, I'm Zeeshan 👋</h1>
+<h3 align="center">Student Developer | Tech Explorer | Future Full-Stack Developer 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Learning+Java+%26+Web+Development;Exploring+AI+%26+Cybersecurity;Building+Projects+Step+by+Step" />
+</p>
 
 ---
 
 ## 🌟 About Me  
-🧑‍💻 I enjoy learning programming and building real projects  
-📚 Currently improving my skills in **Java** and **Web Development**  
-🧠 Interested in **AI**, **Cybersecurity**, and modern technology  
-🤝 Open to collaborating on beginner-friendly projects  
-🎯 Goal: Become a strong developer and build something impactful  
+- 🧑‍💻 I’m a student who loves learning programming and building projects  
+- 🌱 Currently learning **Java + Web Development**  
+- 🧠 Interested in **AI, Cybersecurity, and Modern Tech**  
+- 🤝 Open to collaborating on beginner-friendly projects  
+- 🎯 Goal: Become a strong developer and create impactful applications  
 
 ---
 
-## 🔥 What I'm Doing Right Now  
-⚡ Learning Data Structures & Problem Solving  
-🛠️ Building small web projects to improve my development skills  
-🌐 Exploring how real-world apps are made  
+## 🔥 Currently Working On  
+- ⚡ Improving my **problem-solving skills**
+- 🛠️ Creating small **Java and Web projects**
+- 📚 Learning how real-world applications work  
 
 ---
 
-## 🧰 Tech & Tools  
-💻 Languages: **Java, JavaScript ,python**  
-🌍 Frontend: **HTML, CSS**  
-⚙️ Tools: **Git, GitHub, VS Code**  
-📌 Currently Exploring: **React, Node.js**  
+## 🧰 Tech Stack  
+
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📌 Currently Exploring  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## 📫 Contact Me  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stuhamz&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stuhamz&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🧠 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuhamz&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=stuhamz&theme=tokyonight&no-frame=true&margin-w=15"/>
+</p>
+
+---
+
+## 🌍 Connect With Me  
 📧 Email: **zeeshanrehman809@gmail.com**  
-🌍 Location: **India 🇮🇳**  
+📍 Location: **India 🇮🇳**
 
 ---
 
-### ✨ "Learning every day, building every day."
+### ✨ Quote I Believe In  
+> "Small progress every day leads to big success."
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stuhamz&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
+  ⭐ Keep Learning • Keep Building • Keep Improving ⭐
+</p>
