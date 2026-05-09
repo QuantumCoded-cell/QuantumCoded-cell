@@ -44,14 +44,6 @@
 
 ---
 
-## 🧠 Most Used Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stuhamz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
 ## 🌍 Connect With Me  
 📧 Email: **zeeshanrehman809@gmail.com**  
 📍 Location: **India 🇮🇳**
